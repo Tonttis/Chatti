@@ -48,11 +48,14 @@ npm install -g bun
 bun install
 bun run dev
 
-## Tuotanto (Bun)
+```
 
+## Tuotanto (Bun)
+```bash
 bun run build
 bun run start
 
+```
 ## Käyttö
 
 http://localhost:3000
