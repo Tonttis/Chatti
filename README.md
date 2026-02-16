@@ -56,6 +56,10 @@ npm -v # Should print "11.8.0".
 
 ```
 
+## Asenna repo
+
+Lataa .zip tiedosto ylhäältä "<> Code"-napin alta.
+
 ## Kehitys (Bun)
 
 ```bash
