@@ -1,41 +1,40 @@
-# 💬 Reaaliaikainen chat-sovellus
+# Reaaliaikainen chat-sovellus
 
 Moderni **full-stack reaaliaikainen chat-sovellus**, jossa viestit ja chat-huoneet tallennetaan pysyvästi **SQLite-tietokantaan**. Sovellus toimii ilman rekisteröitymistä ja tukee useita huoneita reaaliaikaisella viestinnällä. ⚡
 
 ---
 
-## ✨ Ominaisuudet
+## Ominaisuudet
 
-- 🔄 **Reaaliaikainen viestintä** Socket.io:n avulla  
-- 🏠 **Useita chat-huoneita** viestihistorian kanssa  
-- 💾 **Pysyvä tallennus** – SQLite tallentaa kaikki viestit ja huoneet  
-- 👤 **Anonyymi käyttö** – ei kirjautumista tai rekisteröitymistä  
-- ➕ **Huoneiden luonti** käyttäjien toimesta  
-- ✍️ **Kirjoitusilmaisimet** – näe, milloin muut kirjoittavat  
-- 🟢 **Käyttäjien läsnäolo** huonekohtaisesti  
-- 📱 **Responsiivinen käyttöliittymä** Tailwind CSS:n avulla  
+- **Reaaliaikainen viestintä** Socket.io:n avulla  
+-  **Useita chat-huoneita** viestihistorian kanssa  
+-  **Pysyvä tallennus** – SQLite tallentaa kaikki viestit ja huoneet  
+-  **Anonyymi käyttö** – ei kirjautumista tai rekisteröitymistä  
+-  **Huoneiden luonti** käyttäjien toimesta  
+-  **Kirjoitusilmaisimet** – näe, milloin muut kirjoittavat  
+-  **Käyttäjien läsnäolo** huonekohtaisesti  
+-  **Responsiivinen käyttöliittymä** Tailwind CSS:n avulla  
 
 ---
 
-## 🛠️ Teknologiat
+##  Teknologiat
 
-### 🎨 Frontend
-- ⚛️ React 19 + TypeScript  
-- ⚡ Vite  
-- 🎨 Tailwind CSS 3.4  
-- 🧩 shadcn/ui  
-- 🔌 Socket.io-client  
-- 🖼️ Lucide React  
+###  Frontend
+-  React 19 + TypeScript  
+-  Vite  
+-  Tailwind CSS 3.4   
+-  Socket.io-client  
+-  Lucide React  
 
-### ⚙️ Backend
-- 🟢 Node.js + Express  
-- 🔌 Socket.io  
-- 🗄️ SQLite (better-sqlite3)  
-- 🆔 UUID  
+###  Backend
+-  Node.js + Express  
+-  Socket.io  
+-  SQLite (better-sqlite3)  
+-  UUID  
 
-## 🚀 Asennus
+##  Asennus
 
-### 📦 Vaatimukset
+###  Vaatimukset
 - Node.js **20+** **tai** Bun  
 - npm tai bun  
 
